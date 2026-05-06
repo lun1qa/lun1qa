@@ -22,4 +22,4 @@ QA-инженер с коммерческим опытом в HealthTech.
 
 📧 y.sivokho@inbox.ru  
 💼 [LinkedIn](https://www.linkedin.com/in/iuliia-sivokho-a62756233)  
-✈️ Telegram: @sisk0ari
+✈️ Telegram: @lun1qa
