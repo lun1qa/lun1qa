@@ -15,11 +15,11 @@ QA-инженер с коммерческим опытом в HealthTech.
 
 | Проект | Описание |
 |--------|---------|
-| [KITACTIVE](https://github.com/Sisk0ari/KITACTIVE) | API-тестирование, тест-кейсы, HealthTech продукт |
-| [rocket-chat-qa-portfolio](https://github.com/Sisk0ari/MT11-1) | Функциональное и API-тестирование Rocket.Chat |
+| [KITACTIVE](https://github.com/lun1qa/KITACTIVE) | API-тестирование, тест-кейсы, HealthTech продукт |
+| [rocket-chat-qa-portfolio](https://github.com/lun1qa?tab=repositories) | Функциональное и API-тестирование Rocket.Chat |
 
 ## Контакты
 
 📧 y.sivokho@inbox.ru  
-💼 [LinkedIn](https://www.linkedin.com/in/iuliia-sivokho-a62756233)  
+💼 [LinkedIn](www.linkedin.com/in/lun1qa)  
 ✈️ Telegram: @lun1qa
