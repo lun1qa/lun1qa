@@ -21,5 +21,5 @@ QA-инженер с коммерческим опытом в HealthTech.
 ## Контакты
 
 📧 y.sivokho@inbox.ru  
-💼 [LinkedIn] (https://linkedin.com/in/lun1qa)  
-✈️ Telegram: [@lun1qa] (https://t.me/lun1qa)
+💼 [LinkedIn](https://linkedin.com/in/lun1qa)  
+✈️ [Telegram @lun1qa](https://t.me/lun1qa)
